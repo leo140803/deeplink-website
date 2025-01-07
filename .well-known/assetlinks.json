@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.marketplace",
+            "sha256_cert_fingerprints": [
+                "25:80:00:57:D9:E1:91:F1:8D:2F:4A:FA:16:D6:74:27:53:C3:A8:36:D7:40:C7:75:62:B0:D4:3D:8D:AB:CF:97"
+            ]
+        }
+    }
+]
